@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "4133e1443e33750d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e0158939690d608",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a911973a80b43b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic - DeFi/1 - Basics/4. DeFi - A Brief History.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ab732e09759a681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic - DeFi/1 - Basics/5. DeFi Terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c93dac3412d5fa6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic - DeFi/2 - Simple Machines/1. Pools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27748bbbb6c27599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic - DeFi/2 - Simple Machines/2. AMMs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d066f10a859d943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic - DeFi/2 - Simple Machines/3. Expiring Synthetics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ebb040fd2741f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic - DeFi/2 - Simple Machines/4. Perpetual Synthetics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9c4810e5d75cc11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Highlights/Highlights.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45b8f41e261e7fad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Highlights/Videos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27108cad11972030",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce900278a1b395a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a14c0fe8118cb1c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40f79cc620fcce3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35e377b5290a6a3f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c003cfe2387c9782",
+    "type": "split",
+    "children": [
+      {
+        "id": "205979acbcccf335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ae69c5538072749",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Highlights/Videos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c1735d71a5e8a4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Highlights/Videos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac72acf4bc014464",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9002843e4c80e5f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Highlights/Videos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "45b8f41e261e7fad",
+  "lastOpenFiles": [
+    "Highlights/Texts.md",
+    "README.md",
+    "Highlights/Highlights.md",
+    "Highlights/Videos.md",
+    "Topic - DeFi/2 - Simple Machines/2. AMMs.md",
+    "Topic - DeFi/1 - Basics/3. What Is Defi?.md",
+    "Topic - DeFi/1 - Basics/4. DeFi - A Brief History.md",
+    "defi-history 1.png",
+    "img/defi-history.png",
+    "Topic - DeFi/1 - Basics/5. DeFi Terms.md"
+  ]
+}
