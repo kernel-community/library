@@ -8,55 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a911973a80b43b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topic - DeFi/1 - Basics/4. DeFi - A Brief History.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ab732e09759a681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topic - DeFi/1 - Basics/5. DeFi Terms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c93dac3412d5fa6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topic - DeFi/2 - Simple Machines/1. Pools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27748bbbb6c27599",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topic - DeFi/2 - Simple Machines/2. AMMs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d066f10a859d943",
+            "id": "1ebb040fd2741f6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,55 +20,18 @@
             }
           },
           {
-            "id": "1ebb040fd2741f6c",
+            "id": "f903bc740ccd260f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topic - DeFi/2 - Simple Machines/4. Perpetual Synthetics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4bd169644772d99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topic - NFTs/Terraforming Hypercastles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67199d7247bc3b67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topic - NFTs/The Room of Infinite Paintings (TRIP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e086e76056e83c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topic - NFTs/The Room of Infinite Paintings (TRIP).md",
+                "file": "Topic - DeFi/2 - Simple Machines/2. AMMs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topic - NFTs/The Room of Infinite Paintings (TRIP).md",
+                "file": "Topic - DeFi/2 - Simple Machines/3. Expiring Synthetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topic - NFTs/The Room of Infinite Paintings (TRIP).md",
+                "file": "Topic - DeFi/2 - Simple Machines/3. Expiring Synthetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topic - NFTs/The Room of Infinite Paintings (TRIP).md"
+                "file": "Topic - DeFi/2 - Simple Machines/3. Expiring Synthetics.md"
               }
             }
           }
@@ -243,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67199d7247bc3b67",
+  "active": "1ebb040fd2741f6c",
   "lastOpenFiles": [
-    "Topic - NFTs/Art Collectives.md",
-    "Topic - NFTs/The Room of Infinite Paintings (TRIP).md",
-    "Topic - NFTs/Terraforming Hypercastles.md",
-    "Topic - NFTs/Nouns.md",
-    "Topic - NFTs/NFTs.md",
     "Topic - DeFi/2 - Simple Machines/4. Perpetual Synthetics.md",
-    "Highlights/Highlights.md",
+    "Topic - NFTs/Art/The Room of Infinite Paintings (TRIP).md",
+    "Topic - DeFi/2 - Simple Machines/2. AMMs.md",
+    "Topic - DeFi/2 - Simple Machines/3. Expiring Synthetics.md",
     "Topic - DeFi/1 - Basics/5. DeFi Terms.md",
-    "Topic - NFTs/Clovers.md",
-    "Topic - NFTs/Rhea Myers.md"
+    "Topic - DeFi/2 - Simple Machines/1. Pools.md",
+    "Topic - NFTs/Finance/UniSwap V3.md",
+    "Topic - NFTs/NFTs.md",
+    "Topic - NFTs/Finance.md",
+    "Topic - NFTs/Art/Terraforming Hypercastles.md"
   ]
 }
