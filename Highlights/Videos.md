@@ -5,3 +5,5 @@ I've done this a few times before for other books I've written: [here](https://w
 If it all makes you somewhat anxious, just watch [this](https://www.youtube.com/watch?v=Oohg3LZd898&t=1344s) instead.
 
 You can find two more gifts from people we love [here](https://vimeo.com/483691027) and [here](https://vimeo.com/198949676) to open this note up as it ends...
+
+Author: cryptowanderer

@@ -43,3 +43,5 @@ These hints may not be obvious to anyone but me; they may not even be actual hin
 [And Then There Were None](https://www.simpleliberty.org/files/And_Then_There_Were_None.pdf), by Eric Frank Russell
 [The Last Question](https://www.youtube.com/watch?v=ojEq-tTjcc0), by ISaac Asimov
 [Sprout Lands](https://www.williambryantlogan.com/), by William Bryant Logan
+
+Author: cryptowanderer
