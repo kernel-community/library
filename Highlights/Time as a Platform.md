@@ -2,33 +2,33 @@ This is such a deep and wide topic it doesn't fit into any of the categories in 
 
 https://blog.simondlr.com/posts/time-as-platform
 
-Remember the ashes
-from which you rose,
-the way you bloom now,
-and how these petals -
-[fold on folded gold](https://thebluebook.co.za/four-part-harmony/) -
-are destined to return.
-
-There is a cycle
-dancing on, wheeling between
-beginning and end,
-ever drawing larger circles
-in time.
-
-And love's caravan carries us
-through the moving sands
-where we are already
-rust and stardust,
-so remember our secret, beloved,
-our scent with which
-you were fixed
-before and beyond this
-moment entered memory's fire.
-
-Now, there is no time,
-no platform, no protocol.
-Only the endless play
-of light illuminating itself.
+Remember the ashes  
+from which you rose,  
+the way you bloom now,  
+and how these petals -  
+[fold on folded gold](https://thebluebook.co.za/four-part-harmony/) -  
+are destined to return.  
+  
+There is a cycle  
+dancing on, wheeling between  
+beginning and end,  
+ever drawing larger circles  
+in time.  
+  
+And love's caravan carries us  
+through the moving sands  
+where we are already  
+rust and stardust,  
+so remember our secret, beloved,  
+our scent with which  
+you were fixed  
+before and beyond this  
+moment entered memory's fire.  
+  
+Now, there is no time,  
+no platform, no protocol.  
+Only the endless play  
+of light illuminating itself.  
 
 ## The Great Connector
 

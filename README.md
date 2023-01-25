@@ -8,7 +8,7 @@ This public repo is the "canonical" library, and any Fellow is welcome to push t
 
 In general, we do not seek to create unified policies for diverse contributors and contributions. Hopefully, this simple skeleton gives you the greatest freedom in terms of the tools you pick, while providing you with a stable foundation from which you can contribute, benefit, and learn.
 
-More deeply, we wish with this work to see a whole garden of [library economies](https://www.youtube.com/watch?v=NOYa3YzVtyk](https://www.youtube.com/watch?v=NOYa3YzVtyk) emerge.
+More deeply, we wish with this work to see a whole garden of [library economies](https://www.youtube.com/watch?v=NOYa3YzVtyk) emerge.
 
 ## Recommendations
 
