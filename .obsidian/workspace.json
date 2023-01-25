@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topic - DeFi/2 - Simple Machines/3. Expiring Synthetics.md",
+                "file": "Highlights/Highlights.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topic - DeFi/2 - Simple Machines/3. Expiring Synthetics.md",
+                "file": "Highlights/Highlights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topic - DeFi/2 - Simple Machines/3. Expiring Synthetics.md",
+                "file": "Highlights/Highlights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topic - DeFi/2 - Simple Machines/3. Expiring Synthetics.md"
+                "file": "Highlights/Highlights.md"
               }
             }
           }
@@ -160,15 +160,15 @@
   },
   "active": "1ebb040fd2741f6c",
   "lastOpenFiles": [
+    "Highlights/Texts.md",
+    "Highlights/Videos.md",
+    "Highlights/Highlights.md",
+    "Topic - DeFi/2 - Simple Machines/3. Expiring Synthetics.md",
     "Topic - DeFi/2 - Simple Machines/4. Perpetual Synthetics.md",
     "Topic - NFTs/Art/The Room of Infinite Paintings (TRIP).md",
     "Topic - DeFi/2 - Simple Machines/2. AMMs.md",
-    "Topic - DeFi/2 - Simple Machines/3. Expiring Synthetics.md",
     "Topic - DeFi/1 - Basics/5. DeFi Terms.md",
     "Topic - DeFi/2 - Simple Machines/1. Pools.md",
-    "Topic - NFTs/Finance/UniSwap V3.md",
-    "Topic - NFTs/NFTs.md",
-    "Topic - NFTs/Finance.md",
-    "Topic - NFTs/Art/Terraforming Hypercastles.md"
+    "Topic - NFTs/Finance/UniSwap V3.md"
   ]
 }

@@ -41,7 +41,7 @@ These hints may not be obvious to anyone but me; they may not even be actual hin
 ["Sabbath Poem"](https://www.saltproject.org/progressive-christian-blog/a-sabbath-poem-by-wendell-berry), by Wendell Berry
 [The Limits and "Good" of Public Goods](https://henryzoo.com/limits), by Henry Zhu
 [And Then There Were None](https://www.simpleliberty.org/files/And_Then_There_Were_None.pdf), by Eric Frank Russell
-[The Last Question](https://www.youtube.com/watch?v=ojEq-tTjcc0), by ISaac Asimov
+[The Last Question](https://www.youtube.com/watch?v=ojEq-tTjcc0), by Isaac Asimov
 [Sprout Lands](https://www.williambryantlogan.com/), by William Bryant Logan
 
 Author: cryptowanderer
