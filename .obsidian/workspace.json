@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Highlights/Texts.md",
+                "file": "Highlights/Highlights.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Highlights/Texts.md",
+                "file": "Highlights/Highlights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Highlights/Texts.md",
+                "file": "Highlights/Highlights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Highlights/Texts.md"
+                "file": "Highlights/Highlights.md"
               }
             }
           }
@@ -160,9 +160,9 @@
   },
   "active": "1ebb040fd2741f6c",
   "lastOpenFiles": [
+    "Highlights/Texts.md",
     "Highlights/Videos.md",
     "Highlights/Highlights.md",
-    "Highlights/Texts.md",
     "Topic - DeFi/2 - Simple Machines/3. Expiring Synthetics.md",
     "Topic - DeFi/2 - Simple Machines/4. Perpetual Synthetics.md",
     "Topic - NFTs/Art/The Room of Infinite Paintings (TRIP).md",
