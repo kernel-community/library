@@ -8,6 +8,8 @@ This public repo is the "canonical" library, and any Fellow is welcome to push t
 
 In general, we do not seek to create unified policies for diverse contributors and contributions. Hopefully, this simple skeleton gives you the greatest freedom in terms of the tools you pick, while providing you with a stable foundation from which you can contribute, benefit, and learn.
 
+More deeply, we wish with this work to see a whole garden of [library economies](https://www.youtube.com/watch?v=NOYa3YzVtyk](https://www.youtube.com/watch?v=NOYa3YzVtyk) emerge.
+
 ## Recommendations
 
 These notes began life as an Obsidian vault. We like the many different ways we can represent data, knowledge, associations, and connections in Obsidian. We enjoy the rich features provided by their community plugins. You need not agree, and can use any markdown editor you like to work with this, from vim to GitHub codespaces, to VS Code or Atom, to services like HackMD, or even import it into Roam Research.
@@ -24,4 +26,4 @@ Each Kernel "block" gets its own directory to work in together. This is a warm, 
 
 There is a "[[Highlights]]" folder for the most useful, insightful, counter-intuitive, surprising, divergent, alternative, and interesting notes that bubble up from each block and provide a new and unique perspective not included or emphasised within the syllabus itself. For instance, you might find [[Videos]] from the syllabus, or [[Texts]] that inspired it.
 
-There are also topic-specific folders, like [[DeFi]] or [[NFTs]], for those who are going through more focused paths in Kernel and want to build shared knowledge bases which can benefit the people who follow in your tracks.
+There are also topic-specific folders - like [[DeFi]], [[NFTs]] and [[Infrastructure]] - for those who are going through more focused paths in Kernel and want to build shared knowledge bases which can benefit the people who follow in your tracks.

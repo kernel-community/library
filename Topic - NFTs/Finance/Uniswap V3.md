@@ -1,4 +1,6 @@
-For all the high level details, there is the [announcement post](https://uniswap.org/blog/uniswap-v3).
+If you know nothing about AMMs, start [here](https://www.youtube.com/watch?v=Ehm-OYBmlPM)
+
+For details from the Uniswap team, there is the [announcement post](https://uniswap.org/blog/uniswap-v3).
 
 For all the specific details, there is the [development handbook](https://uniswapv3book.com/).
 

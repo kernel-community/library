@@ -28,6 +28,8 @@ Our current list of interesting projects looks like this:
 5. [[Nouns]]
 6. [[The Room of Infinite Paintings (TRIP)]]
 7. [[FInding the Blue Book]]
+8. [[Exodus 2]]
+9. [[Amulets]]
 
 We also maintain a running list of interesting [[Art Collectives]] worth following. 
 
@@ -35,6 +37,6 @@ We also maintain a running list of interesting [[Art Collectives]] worth followi
 
 However, we encourage you to add any dimension of "interestingness" you like! NFTs don't have to be about "serious" art in any way, shape, or form. In fact, NFTs might not even have anything to do with art! 
 
-I've thought about vehicle registries using NFTs; people have created property registries in various parts of the world; there are NFT loyalty programs; [[UniSwap V3]] uses NFTs to represent positions in liquidity pools. There are a plethora of uses cases outside "art" which are interesting in their own ways, and we'd love for you to add notes about ones which strike you as particularly relevant here.
+I've thought about vehicle registries using NFTs; people have created property registries in various parts of the world; there are NFT loyalty programs; [[Uniswap V3]] uses NFTs to represent positions in liquidity pools. There are a plethora of uses cases outside "art" which are interesting in their own ways, and we'd love for you to add notes about ones which strike you as particularly relevant here.
 
 Author: cryptowanderer
