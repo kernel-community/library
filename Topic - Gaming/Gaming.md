@@ -1,0 +1,1 @@
+The gaming guild is the longest running group in Kernel. Started in collaboration with 
