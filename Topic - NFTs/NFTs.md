@@ -30,6 +30,8 @@ Our current list of interesting projects looks like this:
 7. [[FInding the Blue Book]]
 8. [[Exodus 2]]
 9. [[Amulets]]
+10. [[EET]]
+11. [[The Mesh]]
 
 We also maintain a running list of interesting [[Art Collectives]] worth following. 
 

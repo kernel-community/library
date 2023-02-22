@@ -2,8 +2,9 @@ This is a non-exhaustive list of art collectives or communities whom we think ar
 
 1. [mschf](https://mschf.xyz/)
 2. [latent.works](https://latent.works/)
-3. [jpg](https://jpg.mirror.xyz/kKJyagdqxo2vDOB6mtQRu9_-jpZ1LiVNX02BmSJU4DQ)
-4. [so-far](https://so-far.xyz/)
-5. ...
+3. [kanon](https://kanon.art/) and [RQDQ](https://blog.rqdq.org/)
+4. [jpg](https://jpg.mirror.xyz/kKJyagdqxo2vDOB6mtQRu9_-jpZ1LiVNX02BmSJU4DQ)
+5. [so-far](https://so-far.xyz/)
+6. ...
 
 Author: cryptowanderer
