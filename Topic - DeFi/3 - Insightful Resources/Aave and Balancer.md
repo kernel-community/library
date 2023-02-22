@@ -2,7 +2,7 @@ We recommend reading [this flipside crypto report on DAO to DAO collaboration](h
 
 This report will give you good insight first into what Aave and Balancer actually are and smattering of the history about how they came to be. It provides some high-level data-driven insights into what the protocols do and how well they do it. 
 
-It is really interesting to see the difference between Uniswap (an [[2. AMMs|AMM]] made up of pools that only have two types of tokens) and Balancer (An "Auto")
+It is really interesting to see the difference between Uniswap (an [[2. AMMs|AMM]] made up of pools that only have two types of tokens) and Balancer (An "Automated ortolfio ")
 
 The data that they are able to gather and present is really interesting and will provide you with many more insights than the report itself if you consider it deeply and take your time to reflect on some of it. 
 
