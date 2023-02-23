@@ -1,3 +1,3 @@
-https://www.youtube.com/watch?v=Y1L0CJmhQvc - Eli Ben-Sasson Starware Sessions '23
+[Eli Ben-Sasson - STARK End Game](https://www.youtube.com/watch?v=Y1L0CJmhQvc ) - we highly recommend this talk from one of the brightest minds in cryptography, giving a sweeping overview of the application of prover-verifier systems to problems in computer science, Bitcoin, blockchains, and now StarkNet. Understanding how the two lineages of cryptography (a small, unpowerful but )
 
 https://www.youtube.com/watch?v=Ht55NnOr7m4 - Community Bridges (art)
