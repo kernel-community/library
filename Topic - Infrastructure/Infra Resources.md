@@ -18,7 +18,7 @@ Here is a runninglist of relevant projects currently working on some kind of "la
 
 Start with [the actual book, by Ben Edgington](https://eth2book.info/latest/). Ben has been a critical and eloquent part of the development efforts since the start. While the book is not complete, Ben took on the Herculean task of keeping us all informed, even in the dark ages... You will find more of his work linked at the end of the [[1. Consensus|Consensus]] page.
 
-We also recommend [this Bankless episode](https://www.youtube.com/watch?v=xuLyZaty9iI) with Jon Charbonneau, which goes into a great degree of detail on Data Availability Sampling (DAS), 
+We also recommend [this Bankless episode](https://www.youtube.com/watch?v=xuLyZaty9iI) with Jon Charbonneau, which looks at how we can scale computation on Ethereum without increasing resource requirements for validators. David and Jon go into a great degree of detail on Data Availability Sampling (DAS), Proposer Builder Separation (PBS) and 
 
 ## Live in the Layers
 
