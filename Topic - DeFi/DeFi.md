@@ -10,5 +10,6 @@ In order to learn about what DeFi is, we encourage you not just to **read**, but
 
 1. In the *Basics* section, we will discuss what "[[1. What is Decentralized?|Decentralized]]" means, what "[[2. What Does Finance Mean?|Finance]]" is, what "[[3. What Is Defi?|Decentralized Finance]]" is, give you a [[4. DeFi - A Brief History|brief history of DeFi]], and get you up to date with the common [[5. DeFi Terms|terminology]].
 2. In the [[Simple Machines]] section, we will discuss the five simple machines you need to understand in order to be able to navigate anything currently in DeFi with a critical and insightful eye: [[1. Pools]], [[2. AMMs]], [[3. Expiring Synthetics]], [[4. Perpetual Synthetics]] and [[5. Oracles]].
+3. In the "Insightful Resources" section, we'll keep adding any truly novel and interesting work we find in our shared wanderings, like [[The Blue Pill]] and [[Aave and Balancer|DAO to DAO collaboration]].
 
 We'd like to thank Danny, Ola, Mitko, Viktor and the good people of KB7 for starting this initiative.

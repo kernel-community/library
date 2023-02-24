@@ -1,6 +1,6 @@
 # What This Is and How To Use It
 
-Welcome to the Kernel Library. These shared notes are one way in which we collaboratively learn about blockchains without needing to always [agree](https://www.kernel.community/en/blog/Editorial/constituting-consensus#consensus). We know people have different approaches meaning-making. Wise communities do not impose standards: they provide the structures needed for valuable individual agency. 
+Welcome to the Kernel Library. These shared notes are one way in which we collaboratively learn about blockchains without needing to always [agree](https://www.kernel.community/en/blog/Editorial/constituting-consensus#consensus). We know people have different approaches to meaning-making. Wise communities do not impose standards: they provide the structures needed for valuable individual agency. 
 
 This is just a simple repo of markdown notes. You can use whichever tool you prefer to work locally without needing to sign in anywhere. 
 
