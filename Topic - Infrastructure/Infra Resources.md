@@ -9,7 +9,10 @@ Here is a runninglist of relevant projects currently working on some kind of "la
 3. [Arbitrum](https://arbitrum.io/)
 4. [Gnosis Chain](https://www.gnosis.io/)
 5. [Celo](https://celo.org/)
-6. [Base](https://base.org/)
+6. [zksync](https://zksync.io/)
+7. [Loopring](https://loopring.io/#/)
+8. [OMG Network](https://docs.omg.network/)
+9. [Base](https://base.org/)
 
 ## Ethereum 2.0
 
@@ -27,3 +30,10 @@ Understanding how the two lineages of **cryptographic prover-verifier constructi
 
 ### Optimistic Rollups
 
+
+
+### Validiums
+
+Vitalik, is his post about [[6. Layer 3s|L3s]], writes:
+
+>[Validiums](https://ethereum.org/en/developers/docs/scaling/validium/) are systems that use SNARKs to verify computation, but leave data availability up to a trusted third party or committee. Validiums are in my view highly underrated: in particular, many "enterprise blockchain" applications may well actually be best served by a centralized server that runs a validium prover and regularly commits hashes to chain. Validiums have a lower grade of security than rollups, but can be vastly cheaper.
