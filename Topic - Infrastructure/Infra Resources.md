@@ -4,6 +4,8 @@ We list on this page the best resources we know to get you up to speed on what d
 
 Start with [the actual book, by Ben Edgington](https://eth2book.info/latest/). Ben has been a critical and eloquent part of the development efforts since the start.
 
+### 
+
 ## Live in the Layers
 
 [Eli Ben-Sasson - STARK End Game](https://www.youtube.com/watch?v=Y1L0CJmhQvc ) - we recommend beginning with this talk from a remarkable cryptographer, which provides a sweeping overview of the application of prover-verifier systems to problems in computer science, Bitcoin, blockchains, and now StarkNet. 
