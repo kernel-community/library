@@ -20,10 +20,12 @@ However, remember that Ethereum itself is a patchwork of other innovations. In m
 
 ## Structure
 
-In this section, we'll try to explore the infrastructure of a planetary, decentralized, networked virtual machine in 4 dimensions, each of which will hopefully bring to light some piece within the infinite puzzle:
+We recommend that you begin by looking through the high-level summary provided in [[Infra Resources]].
 
-[[1. Consensus]]
-[[2. Execution]]
+Then, we'll try to explore the infrastructure of a planetary, decentralized, networked virtual machine in 3 specific dimensions, each of which will hopefully bring to light some piece within the infinite puzzle:
+
+[[2. Consensus]]
+[[1. Execution]]
 [[3. Data]]
 [[4. Settlement]]
 
