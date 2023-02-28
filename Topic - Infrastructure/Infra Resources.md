@@ -30,7 +30,7 @@ Understanding how the two lineages of **cryptographic prover-verifier constructi
 
 ### Validiums
 
-Vitalik, is his post about [[6. Layer 3s|L3s]], writes:
+Vitalik, is his post about [[5. Layer 3s|L3s]], writes:
 
 >[Validiums](https://ethereum.org/en/developers/docs/scaling/validium/) are systems that use SNARKs to verify computation, but leave data availability up to a trusted third party or committee. Validiums are in my view highly underrated: in particular, many "enterprise blockchain" applications may well actually be best served by a centralized server that runs a validium prover and regularly commits hashes to chain. Validiums have a lower grade of security than rollups, but can be vastly cheaper.
 

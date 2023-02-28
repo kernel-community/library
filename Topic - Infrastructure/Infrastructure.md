@@ -27,9 +27,8 @@ Then, we'll try to explore the infrastructure of a planetary, decentralized, net
 [[2. Consensus]]
 [[1. Execution]]
 [[3. Data]]
-[[4. Settlement]]
 
 We will also include separate pages for important developments happening in parallel to these four key elements or dimensions. These developments include:
 
-[[5. Account Abstraction]]
-[[6. Layer 3s]]
+[[4. Account Abstraction]]
+[[5. Layer 3s]]
