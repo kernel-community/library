@@ -22,7 +22,7 @@ This talk provides an overview of the application of prover-verifier systems to 
 
 Understanding how the two lineages of **cryptographic prover-verifier constructions** (a small, unpowerful but reliable PC can verify the output of a large "herd" of cupercomputers) and **byzantine-fault tolerant systems** like Bitcoin and - in particular - Ethereum (which is the small, unpowerful computer we can trust to be reliable and therefore do these verifications for us) is critical. Everything about Validity Rollups hinges on this convergence. It's also invigorating to watch Eli link this to deeper notions of **integrity** and hear him bring it all together when describing the work he has been doing for more than two decades.
 
-[Vitalik's short take on the advantages of Validity Rollups is here](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698/5).
+[Vitalik's short take on the advantages of Validity Rollups is here](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698/5). Basically: they're better because they're recursive and they don't involved complicated fraud proof games.
 
 ### Optimistic Rollups
 
