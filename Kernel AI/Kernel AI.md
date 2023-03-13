@@ -23,7 +23,14 @@ Lastly, if you ask a question that does not receive an answer, please add it to 
 
 When you have access
 to all the world's knowledge
-and the ability to parse it all
+and the ability to parse every bit
 into what is probably
 the next best word,
-what more do you need
+what more do you need?
+
+Perhaps a partner
+who will speak the truth
+with love...
+
+Let us be such partners
+to the mirrors we keep making.
