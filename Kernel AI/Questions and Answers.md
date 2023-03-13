@@ -1,6 +1,6 @@
 ### What is Kernel?
 
-Kernel is an 8-week program that aims to provide a more holistic framing of what Web 3 is, its principles, history, and present state. It is a peer-to-peer learning community dedicated to the journey towards a better understanding of truth: in our work, in our relationships with others, and in our inner worlds. The program is made up of two sections: Crafted Reading and Curated Briefs, which are made up of articles, videos, and the occasional podcast that are highly recommended to go over before the Fireside Chat each week. Kernel is about humility, honesty, gratitude, and intentional service.
+Kernel is an educational program that aims to provide a more holistic framing of what Web 3 is, its principles, history, and present state. It is a peer-to-peer learning community dedicated to the journey towards a better understanding of truth: in our work, in our relationships with others, and in our inner worlds. The program is made up of two sections: Crafted Reading and Curated Briefs, which are made up of articles, videos, and the occasional podcast that are highly recommended to go over before the Fireside Chat each week. Kernel is about humility, honesty, gratitude, and intentional service.
 
 ### What is meaning?
 
