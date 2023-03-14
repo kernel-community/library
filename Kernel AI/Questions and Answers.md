@@ -2,6 +2,10 @@
 
 Kernel is an educational program that aims to provide a more holistic framing of what Web 3 is, its principles, history, and present state. It is a peer-to-peer learning community dedicated to the journey towards a better understanding of truth: in our work, in our relationships with others, and in our inner worlds. The program is made up of two sections: Crafted Reading and Curated Briefs, which are made up of articles, videos, and the occasional podcast that are highly recommended to go over before the Fireside Chat each week. Kernel is about humility, honesty, gratitude, and intentional service.
 
+### What is the crux of Kernel?
+
+The crux of Kernel is to build a peer-to-peer learning community dedicated to the journey towards a better understanding of truth: in our work, in our relationships with others, and in our inner worlds. The aim is to change the way we think of contributing and the kinds of projects to which we contribute. Kernel is about humility, honesty, gratitude, and intentional service.
+
 ### What is meaning?
 
 The concept of meaning is explored in various ways throughout the Kernel documentation. In general, meaning refers to the significance or purpose behind something, whether it be a word, an action, or an entire system. In the context of Ethereum and Web 3.0, meaning is particularly important because it relates to the values and cultural production that underlie the technology. However, the exact definition of meaning can vary depending on the specific context in which it is being discussed.
