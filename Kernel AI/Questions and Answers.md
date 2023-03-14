@@ -98,6 +98,9 @@ According to Peter Norvig's economic argument, the long-term distribution of wea
 
 The complementary opposite of scarcity is not abundance, it is reciprocity.
 
+### How might one cultivate modesty, courage, and wisdom?
+
+According to the context, modesty, courage, and the application of wisdom can be cultivated by paying deeper and finer attention to the ways these forces manifest in our lives. By doing so, we can groom the force of attraction and cultivate moderation, and groom the force of repulsion and cultivate courage. When courage and moderation are birthed in the heart, then the seed of modesty may take root in our being. Modesty, given time, may bloom into wisdom. With the exercise and application of wisdom comes the flourishing of justice.
 
 ### What is quantum thought?
 
