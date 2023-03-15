@@ -15,7 +15,7 @@ beginning and end,
 ever drawing larger circles  
 in time.  
   
-And love's caravan carries us  
+Love's caravan carries us  
 through the moving sands  
 where we are already  
 rust and stardust,  
@@ -72,3 +72,5 @@ I'll end with two insights from Simon that are priceless:
 >**everything is infinitely valuable on a blockchain on a long-enough timeline**. The only cost becomes opportunity cost. Not all parts will be equally valuable at all times.
 
 >For you see, it didn’t necessarily matter what was being done, but rather **when it was done**. Time is so important that it overshadows everything else.
+
+One cryptographic primitive physically linked to time is [Verifiable Delay Functions](https://zeroknowledge.fm/258-2/). Rather than a threshold scheme of some kind, this method leverages the flow of time to encrypt and decrypt messages, baking in the concept of "when it was done" even further.
