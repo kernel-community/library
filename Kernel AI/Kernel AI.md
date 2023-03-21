@@ -17,7 +17,9 @@ Our ask is simple:
 
 This way, we can build a base of [better questions](https://kernel.community/en/learn/module-2/better-questions), from which our community can learn. 
 
-Lastly, if you ask a question that does not receive an answer, please add it to the [[RFC]] page. While we [do not provide single answers](https://www.kernel.community/en/learn/module-0/play-of-pattern) in Kernel, we will discuss questions for which the model does not have a response. We will then document those discussions on the same page, and feed it back into the model itself so that it responds to future questions with our ongoing insights and shared learning.
+If you ask a question that does not receive an answer, please add it to the [[RFC]] page. While we [do not provide single answers](https://www.kernel.community/en/learn/module-0/play-of-pattern) in Kernel, we will discuss questions for which the model does not have a response. We will then document those discussions on the same page, and feed it back into the model itself so that it responds to future questions with our ongoing insights and shared learning.
+
+Lastly, we include a page o
 
 
 
