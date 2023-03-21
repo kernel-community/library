@@ -19,7 +19,7 @@ This way, we can build a base of [better questions](https://kernel.community/en/
 
 If you ask a question that does not receive an answer, please add it to the [[RFC]] page. While we [do not provide single answers](https://www.kernel.community/en/learn/module-0/play-of-pattern) in Kernel, we will discuss questions for which the model does not have a response. We will then document those discussions on the same page, and feed it back into the model itself so that it responds to future questions with our ongoing insights and shared learning.
 
-Lastly, we include a page o
+Lastly, we include a page on [[Play]], which contains both some of our thoughts on the attitude with which you might consider approaching the use of these models, as well as one response we generated with a specific question about games and deschooling ourselves.
 
 
 
