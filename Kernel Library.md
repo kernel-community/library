@@ -45,4 +45,4 @@ It's more.
   
 Love so much greater,  
 it goes to the end of time  
-and still doesn't stop.
+and still wonders on.
