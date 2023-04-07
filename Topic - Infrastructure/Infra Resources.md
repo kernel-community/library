@@ -1,5 +1,7 @@
 What are "layers" in practice, and how do they apply to scaling blockchains so that they can serve global (and inter-planetary) needs, and the different approaches being taken? 
 
+The best practical resource and educational guide we know of is [l2beat.com](https://l2beat.com/), who do a good job of summarizing all existing L2 products that fit an intentionally crafted definition they propose, exposing the different risks of each clearly, and providing wel-researched and clear insights into each product they present.
+
 ## Ethereum 2.0
 
 The work being done to create planetary-scaled decentralized architectures is still settling in our shared imaginal space. Therefore, many of the current resources focus on "how" rather than "why" because it is a more relevant question at this stage of creation. The deep why described in Kernel Module 6 is therefore still accurate: **we want to play infinite (and infinitely inventive, principled) games with each other**. How to do so is specified in the [Eth2 Design Rationale](https://www.kernel.community/en/learn/module-6/serenity). It is complemented by [inventing on principle](https://www.kernel.community/en/learn/module-6/inventing-on-principle) and appreciating [the miraculous struggle involved in living](https://www.kernel.community/en/learn/module-6/duende).

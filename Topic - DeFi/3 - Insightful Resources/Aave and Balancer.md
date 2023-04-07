@@ -8,7 +8,7 @@ It is really interesting to see the difference between Uniswap (an [[2. AMMs|AMM
 
 >the true unlock is engaging another community.
 
-In detailing some of the history, FC also does a good job of describing Balancer's move toa "voting escrow" system similar to Curve, which they describe in greater detail [here](https://medium.com/flipside-governance/to-ve-or-not-to-ve-9e3d14d4ccc5).
+In detailing some of the history, FC also does a good job of describing Balancer's move to a "voting escrow" system similar to Curve, which they describe in greater detail [here](https://medium.com/flipside-governance/to-ve-or-not-to-ve-9e3d14d4ccc5).
 
 We also appreciate the deep explanation of the mechanics of this particular DAO to DAO partnership, what the benefits are to both, and the detailed insights into what boosted Balancer pools actually are and why they work the way they do. This explanation (on page 31), coupled with the history of yield bearing tokens they provide (from page 34 onwards), is well worth reading in full.
 
