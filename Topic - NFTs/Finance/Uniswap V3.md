@@ -18,4 +18,4 @@ Instead, UniSwap can represent the price range specified by any liquidity provid
 
 >Over time we expect increasingly sophisticated strategies to be tokenized, making it possible for LPs to participate while maintaining a passive user experience. This could include multi-positions, auto-rebalancing to concentrate around the market price, fee reinvestment, lending, and more.
 
-Here, we're not tokenizing art works, we're tokenizing financal strategies. [Some might point out that there is, actually, very little difference between the two at their respective deepest levels](https://www.suzannetreister.net/HFT_TheGardener/HFT_menu.html), but we'll leave that as a discussion point for those interested in this particular application of NFTs.
+Here, we're not tokenizing art works, we're tokenizing financial strategies. [Some might point out that there is, actually, very little difference between the two at their respective deepest levels](https://www.suzannetreister.net/HFT_TheGardener/HFT_menu.html), but we'll leave that as a discussion point for those interested in this particular application of NFTs.

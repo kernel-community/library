@@ -1,1 +1,3 @@
 These notes have been selected by the community for their relevance beyond each block. They tend to contain insights, perspectives, or additional materials that extend far beyond what is held in the Kernel Learn and Build Tracks, helping us collectively trace increasingly wise paths through the infinities of information all around us.
+
+Currently, you'll find the [[Texts]] and [[Videos]] referenced in the Kernel syllabus (with some extra spice) as well as an extended reflection on [[Time as a Platform]].

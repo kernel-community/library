@@ -1,13 +1,13 @@
 Non-Fungible Tokens are intended to represent unique digital items. One is not like another, and so cannot be directly exchanged. After the NFT "boom" of 2021, there is an almost overwhelming amount of information about these kind of tokens available.
 
-Rather than try to capture it all, or lay out a bunch of dry technical definitions here that will bore you before you reach the end of this sentence, this section is inteded to gather some of the most interesting projects which we think contain specific lessons we can learn from.
+Rather than try to capture it all, or lay out a bunch of dry technical definitions here that will bore you before you reach the end of this sentence, this section is intended to gather some of the most interesting projects which contain specific lessons we can learn from.
 
 Of course, "interesting" can have many different dimensions of meaning.
 
 ## Art
 
 1. Does the NFT collection **use the blockchain in an artful manner**? Fine awareness of the affordances of the media we use to produce any art is critical.
-2. Does the art **reveal something essential how we perceive**, the media through which we choose to do so, the stories we tell about life, and about the way we see and represent ourselves, both internally and to "others"?
+2. Does the art **reveal something essential about how we perceive**; about the media through which we choose to do so; about the stories we tell about life; and about the way we see and represent ourselves, both internally and to "others"?
 	1. In some vital sense, moving art - no matter how "unprecedented" the medium in which it exists - always does the same thing: hold a mirror up to those who really wish to see.
 3. Is there a **balance** between the different elements, both within the artwork itself, and in terms of how it balances perception with narrative with finance with "permanence" and everything else that goes along with blockchains-as-a-medium?
 4. Is it **surprising**? Both in terms of the effect it has on any viewer, and in terms of what it proves us capable of doing, thinking, programming, expressing.

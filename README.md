@@ -26,7 +26,7 @@ Each Kernel "block" gets its own directory to work in together. This is a warm, 
 
 There is a "[[Highlights]]" folder for the most useful, insightful, counter-intuitive, surprising, divergent, alternative, and interesting notes that bubble up from each block and provide a new and unique perspective not included or emphasised within the syllabus itself. For instance, you might find [[Videos]] from the syllabus, or [[Texts]] that inspired it.
 
-There are topic-specific folders - like [[DeFi]], [[NFTs]] and [[Infrastructure]] - for those who are going through more focused paths in Kernel and want to build shared knowledge bases which can benefit the people who follow in your tracks.
+There are topic-specific folders - like [[Topic - DeFi]], [[Topic - NFTs]] and [[Topic - Infrastructure]] - for those who are going through more focused paths in Kernel and want to build shared knowledge bases which can benefit the people who follow in your tracks.
 
 There is also a [[Kernel AI]] folder, which contains directions on how to use our conversational model, as well as examples of good prompts to help you learn how to engage it in more meaningful dialogue, as well as a page for collecting insights about topics to which the model is currently unresponsive.
 

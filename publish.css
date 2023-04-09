@@ -1,0 +1,19 @@
+.tree-item-self[data-path^='Highlights/Highlights'] {
+    display: none;
+  }
+  
+  .tree-item-self[data-path^='Kernel+AI/Kernel+AI'] {
+    display: none;
+  }
+  
+  .tree-item-self[data-path^='Topic+-+DeFi/Topic+-+DeFi'] {
+    display: none;
+  }
+  
+  .tree-item-self[data-path^='Topic+-+Infrastructure/Topic+-+Infrastructure'] {
+    display: none;
+  }
+  
+  .tree-item-self[data-path^='Topic+-+NFTs/Topic+-+NFTs'] {
+    display: none;
+  }

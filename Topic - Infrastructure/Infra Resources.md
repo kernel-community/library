@@ -1,6 +1,4 @@
-What are "layers" in practice, and how do they apply to scaling blockchains so that they can serve global (and inter-planetary) needs, and the different approaches being taken? 
-
-The best practical resource and educational guide we know of is [l2beat.com](https://l2beat.com/), who do a good job of summarizing all existing L2 products that fit an intentionally crafted definition they propose, exposing the different risks of each clearly, and providing wel-researched and clear insights into each product they present.
+The best practical resource and educational guide we know is [l2beat.com](https://l2beat.com/), who do a good job of summarizing all existing L2 products that fit an intentionally crafted definition they propose. Their website highlights the different risks of each approach to scaling clearly, and provides well-researched insights we can all learn from together.
 
 ## Ethereum 2.0
 
@@ -10,7 +8,16 @@ With that established, [this Bankless episode](https://www.youtube.com/watch?v=x
 
 [This book, by Ben Edgington](https://eth2book.info/latest/), while incomplete, also provides many useful technical insights from someone who has been communicating what Eth2 is from the very start... You will find more of his work linked at the end of the [[2. Consensus|Consensus]] page.
 
-[This blog, by polynya](https://polynya.mirror.xyz/) is also a much-loved resource in the community.
+Some researchers tend to use hackmd for their notes. It's worth clicking around to find some of the interesting things being worked on as they're happening:
+
+1. [@vbuterin](https://notes.ethereum.org/@vbuterin)
+2. [@djrtwo](https://notes.ethereum.org/@djrtwo)
+3. @ralexstokes - [ethereum](https://notes.ethereum.org/@ralexstokes), [personal](https://hackmd.io/@ralexstokes)
+4. [@benjaminion](https://hackmd.io/@benjaminion)
+5. [@luozhu](https://hackmd.io/@luozhu/)
+6. [@CarlBeek](https://notes.ethereum.org/@CarlBeek)
+
+We also recommend [ethresear.ch](https://ethresear.ch/) and [Ethereum Magicians](https://ethereum-magicians.org/) as the two best fora for finding out about deeper tech topics. If that's your thing, you might also consider joining the [protocol guild](https://twitter.com/ProtocolGuild).
 
 ## Live in the Layers
 
@@ -48,7 +55,7 @@ Vitalik, is his post about [[5. Layer 3s|L3s]], writes:
 
 ## Players
 
-Here is a list of some relevant projects currently working on some kind of "layer" that is either built on top of Ethereum, or is EVM-compatible (either of these options contributes to the network effects of the EVM we described in [[Infrastructure]]). It does not provide much insight into "why", but it does give you a sense of "who" which is often an important step along the way to understanding "why" because it allows us to look at the motivations and incentives for specific groups and people.
+Here is a list of some relevant projects currently working on some kind of "layer" that is either built on top of Ethereum, or is EVM-compatible (either of these options contributes to the network effects of the EVM we described in [[Topic - Infrastructure]]). It does not provide much insight into "why", but it does give you a sense of "who" which is often an important step along the way to understanding "why" because it allows us to look at the motivations and incentives for specific groups and people.
 
 1. [StarkWare](https://starkware.co/)
 2. [Optimism](https://www.optimism.io/)
