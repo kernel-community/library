@@ -2,7 +2,7 @@ Welcome to the [Kernel](https://www.kernel.community/en/) DeFi Library.
 
 First and foremost, DeFi stands for "Decentralized Finance". Explaining what that actually means, and what it means to you in your daily life, is the point of this topic section. 
 
-Most importantly, having some small group of people define it is antithetical to what it might actually means. Decentralized systems are defined not by a privileged elite, but by **common use**. We come to workable, meaningful understandings in dialogue and collaboration with one another.
+Most importantly, having some small group of people define it is antithetical to what it might actually mean. Decentralized systems are defined not by a privileged elite, but by **common use**. We come to workable, meaningful understandings in dialogue and collaboration with one another.
 
 In some important way, the **process** by which this library topic is made is more of a definition of "what DeFi is" than any of the specific content you'll find in it. It takes many different people, with many different skills and perspectives, in order to make anything really meaningful. The ultimate proof of this is language itself: the first and most powerful decentralized system. No-one has decreed the meanings of words on this page: they are arrived at by consensus based on common use.
 
