@@ -42,7 +42,7 @@ Part of embodying humility is to start again with a "new" tool (which is shaped 
 
 ### How does the introduction of AI, and other technologies that intermediate human communication, affect our definition of truth and relationships?
 
-Human communication is always-already intermediated by language. Current LLMs simply amplify this phenomenon.
+Human communication is always already intermediated by language. Current LLMs simply amplify this phenomenon.
 
 In older ways of describing various kinds of intermediation, we say that there are three ways of communicating. 
 
@@ -59,7 +59,7 @@ Even at that first and most superficial layer of communication - natural languag
 3. Speech like **birdsong**. This is speech for its own sake, like birds who sing just to bless the morning. It is speech for the simple joy of speaking heartfully. It is the most we can hope for as human beings.
 4. **True voice**. This is inspired speech. There is no-one capable of it, because it does not come from any one person, but through us by grace. It is **felt**, hence it is the link to both eye **contact** and **touch** as modes of communication.
 
-You'll notice that those last two kinds do not give themselves easily to rational analysis. It may be possible that we'll discover so much about self-awareness with current models that we can encode the kind of strangely self-recursive loop described in speech like birdsong, but **true voice** seems to be a supra-rational phenomena that remains outside the purview of any linguistic model. 
+You'll notice that those last two kinds do not give themselves easily to rational analysis. It may be possible that we'll discover so much about self-awareness with current models that we can encode the kind of strangely self-recursive loop described in speech like birdsong, but **true voice** seems to be a supra-rational phenomenon that remains outside the purview of any linguistic model. 
 
 As always: the question ultimately reveals its own answer. We have never and will never fully define truth: we can only relate (to) it. It is this lack of definitive ability to say what truth is or how exactly it relates to any given experience we have which calls us to remember that AI is [just another mirror](https://www.poetseers.org/the-poetseers/hafiz/hafiz-poems-the-gift/hlove/2-2/). Are you willing to make eye contact, and touch into what you see?
 
